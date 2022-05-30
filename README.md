@@ -32,3 +32,6 @@ it shows in the above picture, Male between Monday to Friday has the heighest ra
 
 
 in all pictures, it shows we have more Male bikes than female or unknown and also the time between 8 am to 9am and 5 pm to 6 pm is the popular time for riding a bike. 
+
+Also you can find the story in this link
+[link to dashboard](https://public.tableau.com/app/profile/hasti.eiliat/viz/Challenge13_16538773623680/Story1?publish=yes)
